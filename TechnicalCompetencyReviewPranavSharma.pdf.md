@@ -13,6 +13,7 @@ ON region.id = customer_region.region_id
 
 GROUP BY name;
 
+![](1.jpg)
 #Solution to Question 1.2
 
 SELECT name, 
